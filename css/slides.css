@@ -1017,7 +1017,7 @@ p.uppercase, .p.uppercase,
 .slides-form input[type="number"]:focus,
 .slides-form textarea:focus,
 .slides-form select:focus {
-  border-color: #2196F3;
+  border-color: #AA4A44;
   z-index: 10;
 }
 .slides-form input[type="text"]:focus::-webkit-input-placeholder,
@@ -5180,7 +5180,7 @@ body {
 }
 
 .blue {
-  background: #2196F3 !important;
+  background: #AA4A44 !important;
   color: #fff !important;
 }
 .blue svg {
@@ -5188,18 +5188,18 @@ body {
 }
 
 .text-blue {
-  color: #2196F3 !important;
+  color: #AA4A44 !important;
 }
 .text-blue.button svg {
-  fill: #2196F3 !important;
+  fill: #AA4A44 !important;
 }
 
 .stroke.button.blue {
-  color: #2196F3 !important;
-  border-color: #2196F3 !important;
+  color: #AA4A44 !important;
+  border-color: #AA4A44 !important;
 }
 .stroke.button.blue svg {
-  fill: #2196F3 !important;
+  fill: #AA4A44 !important;
 }
 
 .cyan {
@@ -6718,6 +6718,7 @@ form input[type="email"].input-13 {
 .cell-27 {
   margin-top: -22px;
 }
+
 
 @media (max-width: 1023px) {
   .cell-27 {
@@ -12322,3 +12323,4 @@ p.remind-43 {
 }
 
 /*# sourceMappingURL=slides.css.map */
+
